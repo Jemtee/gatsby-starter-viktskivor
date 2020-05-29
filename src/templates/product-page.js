@@ -245,3 +245,107 @@ export const productPageQuery = graphql`
     }
   }
 `
+
+// var getJSON = function (url, callback) {
+//   var xhr = new XMLHttpRequest();
+//   xhr.open("GET", url, true);
+//   xhr.responseType = "json";
+//   xhr.onload = function () {
+//     var status = xhr.status;
+//     if (status === 200) {
+//       callback(null, xhr.response);
+//     } else {
+//       callback(status, xhr.response);
+//     }
+//   };
+//   xhr.send();
+// };
+
+// getJSON(
+//   "http://feed.adrecord.com/atletbutiken.json?id=96afc4f6a468",
+//   function (err, data) {
+//     if (err !== null) {
+//       alert("Something went wrong: " + err);
+//     } else {
+//       alert("Your query count: " + data.query.count);
+//     }
+//   }
+// );
+let url = "http://feed.adrecord.com/atletbutiken.json?id=96afc4f6a468";
+
+fetch(url)
+  .then((res) => res.json())
+  .then((out) => {
+    console.log("Checkout this JSON! ", out);
+    var filteredCategories = out.products.map(function (cat) {
+      return cat === "TRÄNINGSPRODUKTER";
+    });
+
+    console.log(filteredCategories);
+  })
+  .catch((err) => {
+    throw err;
+  });
+
+
+  // Array for to put the found objects in.
+// var myCats = [];
+
+// // Iterate over the array of objects.
+// for (var i = 0; i < field.length; i++) {
+//    // Iterate over the properties of the single object.
+//    for (var j in field[i]["categories"]) {
+//      // Does it contain the searched categoryName? 
+//      //   'category02' in this case.
+//      if (field[i]["categories"][j]["TR\u00c4NINGSREDSKAP"] === "Viktskivor") {
+//        // Make a deep clone of the object.
+//        //   Push the new object to to collector array.
+//        myCats.push(Object.create(JSON.parse(JSON.stringify(field[i]))));
+//      }   
+//   }
+// }
+
+// // Test
+// for (i = 0; i < myCats.length; i++) {
+//   console.log(myCats[i]);
+// }
+
+// var filteredCategories = data.categories.map(function (cat) {
+//   return cat === "TR\u00c4NINGSREDSKAP";
+// });
+// filteredCategories();
+
+// var selectedSubCategoryObj = null;
+// $("#subcategory1").click(function () {
+//   $.getJSON("list.json", function (data) {
+//     console.log(data);
+//     let output = "";
+//     selectedSubCategoryObj = $(this);
+
+//     $.each(data[0].subcategories, function (index, product) {
+//       if ($(selectedSubCategoryObj)[0].innerHTML == product.name) {
+//         $.each(product.items, function (index, eachItem) {
+//           output += `
+//           <div class="col-md-3">
+//               <div class="items">
+//                   <div class='photo'>
+//                       <img src="${eachItem.imagelink}">
+//                   </div>
+//                   <div class="info">
+//                       <h4>${eachItem.name}</h4>
+//                       <h5>$${eachItem.price}</h5>
+//                   </div>
+//                   <div class="info">
+//                       <p>
+//                           <a href="#">Add to cart</a>
+//                       </p>
+//                   </div>
+//               </div>
+//           </div>
+//        `;
+//         });
+//         $("#subItems").html(output);
+//       }
+//     });
+//   });
+// });

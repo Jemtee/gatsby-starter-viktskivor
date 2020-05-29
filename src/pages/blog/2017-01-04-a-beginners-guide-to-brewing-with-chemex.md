@@ -1,29 +1,38 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: 5 fel som förstör dina viktskivor
+date: 2020-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/blog/trasig-viktskiva.jpg
+description: Orolig för att skada eller till och med gå sönder viktskivor? Är det möjligt att gå sönder dem och vad krävs det? Det får du svar nedan.
 tags:
-  - brewing
-  - chemex
+  - viktskivor
+  - hantering
+  - skötselråd
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/blog/trasig-bumperplate.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Kan viktskivor gå sönder? Ja, metall- och gummiviktskivor kan gå sönder även om det inte är vanligt. Den största anledningen till att skivorna går sönder är en kraftig påverkan. För att förhindra skador är det bra att sänka vikterna på ett kontrollerat sätt och ha ett gott gymgolv.
+<!-- 
+In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City. -->
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+## Kan viktskivor gå sönder?
 
-## The little secrets of Chemex brewing
+Ja, en snabb Google-bildsökning avslöjar att det verkligen är en möjlighet. Det finns ganska många bilder där som visar trasiga viktskivor. På flera bodybuilding- och viktlyftforum kan du också hitta exempel på trasiga viktskivor. Så det visar oss redan att viktskivor inte är oövervinnbara.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Huvuddelen av viktskivor i hem- och kommersiella gym är tillverkade av stål. Detta stål kan vara naket eller inslaget i något slags gummi. Mindre vanliga är stötfångarskivor, dessa skivor är helt gjorda av gummi.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Eftersom de vanligtvis är gjorda av stål (utom stötfångare) är de starka men det är fortfarande möjligt att bryta dem om förhållandena är rätt. Även gummistötskivor har sina gränser, även om de klarar lite mer missbruk.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+De flesta kommer aldrig att nå gränserna för vad deras viktskivor kan hantera innan de går sönder. Så länge du använder dina skivor för det avsedda syftet, borde de pågå i årtionden. Naturligtvis missbrukar vissa människor sin utrustning lite mer än andra.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Vanliga skador på viktskivor;
+
+1. Kosmetisk skada. Dingar och repor. Detta påverkar inte skivorna på något sätt.
+Gummibeläggning skalar av. Ser fula ut och de kan bli lite lättare men skivorna är fortfarande användbara.
+2. Inre ringar lossnar. På skivor som har inre hål med en ring kan dessa ibland lossna. Det är ibland möjligt att reparera detta eller använda plattan utan ringen.
+3. Flagor. ogummerade metallskivor kan flisas utan att helt bryta. Detta gör dem lättare och kan orsaka skarpa kanter. Skarpa kanter kan läggas ner men vikten är svår att kompensera. Om du inte använder tejpen igen, kan du fortfarande använda dem på hissar där balansen inte är viktig som en rad i T-fältet.
+4. Knäckt. Mer extrem skada är en sprucken men inte krossad platta. Det är bättre att inte använda dessa längre.
+Du kanske har sett några av dessa typer av skador i ditt lokala gym. Ofta används skivorna fortfarande så det är inte så mycket.
+
+Brutna skivor hände då och då, men det stora flertalet gånger är det för att helt enkelt behandla det för hårt och / eller släppa dem på fel sätt. Naturligtvis kan det finnas en tillverkningsfel som gör att plattan går sönder vid normal användning, men det är inte vanligt.

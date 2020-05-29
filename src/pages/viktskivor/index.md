@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /viktskivor
+path: /about
 title: About our values
 ---
 ### Shade-grown coffee

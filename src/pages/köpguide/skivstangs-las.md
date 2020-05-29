@@ -7,7 +7,7 @@ title: Skivstängslås
 
 Vi har alla ägt fjäderlås; förmodligen fortfarande finns de någonstans. De fungerar oftast, och de skriker bara "Jag är billig!" Med tiden kommer de att sluta hålla fast vid viktskivorna så bra; särskilt om du lämnar dem på skivstången mellan träningspass då de då är i utsträckt läge.
 
-Förutom att vara billigt, finns det inga fördelar med fjäderlås. De har ingen väsentlig vikt, ungdomar och kvinnliga lyftare med små händer har ofta svårt att få på dem samt de fungerar inte på de flesta specialskivstänger. 
+Förutom att vara billigt, finns det inga fördelar med fjäderlås. De har ingen väsentlig vikt, ungdomar och kvinnliga lyftare med små händer har ofta svårt att få på dem samt de fungerar inte på de flesta specialskivstänger.
 
 De klarar sig ganska bra när de är nya, speciellt om din skivstång har räfflade ändar, men du vill se till att du öppnar dem så mycket som möjligt när du sätter på eller av dem för att undvika att ta bort zink- eller krombeläggningen på skivstången.
 
